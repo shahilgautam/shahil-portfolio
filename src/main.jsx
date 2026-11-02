@@ -23,6 +23,14 @@ const projects = [
     tags: ["Django", "Python", "HTML"],
     icon: "DM",
     link: "https://github.com/shahilgautam/DocManager"
+  },
+  {
+    title: "Student Management System",
+    description:
+      "A full-stack Student Management System built with React.js, Node.js, Express.js, and MySQL, featuring user authentication, role-based access control, and CRUD operations for managing student records through a responsive dashboard.",
+    tags: ["React", "Node.js", "Node Express", "JavaScript"],
+    icon: "SM",
+    link: "https://github.com/shahilgautam/Student_Management_System"
   }
 ];
 
@@ -113,7 +121,7 @@ function App() {
             <div className="hero-visual">
               <div className="orb orb-a"></div>
               <div className="orb orb-b"></div>
-              <div className="code-float">&lt;/&gt;</div>
+              <div className="code-float">&lt;py&gt;</div>
               <div className="note note-left">Keep<br />Learning<br />Keep Building</div>
               <div className="note note-right">Ideas<br />into<br />Impact</div>
               <div className="portrait-container">
